@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Rads1508/Rads1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Radhika Agnihotri 👋
 
 **Data Analyst | SQL • Python • Power BI | Credit Risk & Business Analytics**
