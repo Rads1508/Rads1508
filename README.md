@@ -20,6 +20,7 @@ I specialize in uncovering insights that drive measurable outcomes.
 |---|---|---|
 | [Scorebada Digital Marketing Analytics](https://github.com/Rads1508/scorebada-data-analytics) | Python, SQL, Power BI, Excel | Identified 83% revenue decline root causes, delivered 6 recommendations |
 | [AtliQ Hardware Business Insights 360](https://github.com/Rads1508/AtliQ-Hardware-End-to-End-Analytics-Project) | MySQL, Power BI, Excel | Analyzed $598.9M net sales across 23 global markets |
+| [Credit Risk Modeling & Expected Loss Estimation](https://github.com/Rads1508/Credit-Card-Spending-Habits-in-India) | Python | PD Model, LGD, EL |
 | [Credit Card Spending Habits](https://github.com/Rads1508/Credit-Card-Spending-Habits-in-India) | SQL | 9 business queries across 986 cities & 4 card types |
 
 ## 📫 Connect
