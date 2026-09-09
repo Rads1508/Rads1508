@@ -1,4 +1,4 @@
-# Hi there 👋
+# Welcome :)
 
 # Hi, I'm Radhika Agnihotri 👋
 
